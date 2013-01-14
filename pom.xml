@@ -6,7 +6,7 @@
 
     <groupId>fr.xebia.blog</groupId>
     <artifactId>gitBestPractice</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
