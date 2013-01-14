@@ -15,6 +15,6 @@ public class User {
     }
 
     private String format() {
-        return String.format("User: %s, %s",lastName,firstName);
+        return String.format("Hello: %s, %s",lastName,firstName);
     }
 }
