@@ -7,4 +7,8 @@ public class Group {
     public Group(Iterable<User> users) {
         this.users = users;
     }
+
+    public void yetAnotherUselessMethod(){
+
+    }
 }
